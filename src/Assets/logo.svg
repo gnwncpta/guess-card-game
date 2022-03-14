@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="211.761" height="91.67" viewBox="0 0 211.761 91.67">
+  <defs>
+    <filter id="Rectangle_5" x="0" y="0" width="86.722" height="91.67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_34" data-name="Group 34" transform="translate(-144.239 -81)">
+    <text id="Guessing_Card_Game." data-name="Guessing 
+Card Game." transform="translate(232 119)" fill="#fff" font-size="22" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Guessing </tspan><tspan x="0" y="26">Card Game.</tspan></text>
+    <g id="Group_6" data-name="Group 6" transform="translate(155 93)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="36.576" height="50.093" rx="7" transform="translate(0 5.788)" fill="#ed25f3"/>
+      <g id="Group_5" data-name="Group 5" transform="translate(29.286 0) rotate(30)">
+        <g transform="matrix(0.87, -0.5, 0.5, 0.87, -40.68, 9.63)" filter="url(#Rectangle_5)">
+          <rect id="Rectangle_5-2" data-name="Rectangle 5" width="36.576" height="50.093" rx="7" transform="translate(40.05 12) rotate(30)" fill="#59def3"/>
+        </g>
+        <text id="_" data-name="*" transform="translate(10.337 41.132)" fill="#141414" font-size="31" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">*</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
